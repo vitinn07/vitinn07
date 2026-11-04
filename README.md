@@ -1,61 +1,45 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<img src="assets/hero.svg" width="100%" alt="Victor Lucas (Vitinn): dev full stack com foco em back-end, suporte de TI e estudante de Engenharia de Software na PUC Minas" />
+
+<p>
+Trabalho com suporte de TI e estudo Engenharia de Software na PUC Minas.<br />
+Gosto de resolver problemas e construir soluções que funcionam de verdade, principalmente no back-end.
+</p>
+
+<a href="https://www.linkedin.com/in/victorlucas-vitinn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/vitinnh.06/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://github.com/vitinn07?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" /></a>
+
+<img src="assets/runner.svg" width="100%" alt="Robozinho pixel correndo sobre uma linha de código e pulando bugs" />
+
 </div>
 
-###
+## Sobre mim
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-</div>
+<img src="assets/terminal.svg" width="100%" alt="Terminal: Victor Lucas, de Belo Horizonte. Suporte de TI e Helpdesk N1, Engenharia de Software na PUC Minas, projetos com TypeScript, React e Node.js. Objetivo: evoluir como dev." />
 
-###
+## Tecnologias
 
-<h1 align="center">Hey there! Welcome, I’m Victor, also known as Vitinn</h1>
+<img src="assets/stack.svg" width="100%" alt="Uso no dia a dia: JavaScript, TypeScript, React, Node.js, PHP, Java, HTML e CSS. Estudando agora: Python, SQL, MySQL e n8n. Ferramentas: Git e GitHub, VS Code, Figma, Power Automate e Linux." />
 
-###
+## Projetos em destaque
 
-<h3 align="left">👩‍💻  About Me</h3>
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/vitinn07/inestimaveis-barber-store"><img src="assets/card-barber.svg" width="100%" alt="Inestimáveis Barber Store: agendamento online e gestão de barbearia" /></a></td>
+    <td width="50%"><a href="https://github.com/vitinn07/nebulaclean-enterprise"><img src="assets/card-nebula.svg" width="100%" alt="NebulaClean Enterprise: manutenção automatizada de ambientes Windows" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/vitinn07/Self-Checkout"><img src="assets/card-checkout.svg" width="100%" alt="Self-Checkout: projeto de autoatendimento com Next.js e TypeScript" /></a></td>
+    <td width="50%"><a href="https://github.com/vitinn07/sushifazenda"><img src="assets/card-sushi.svg" width="100%" alt="Sushi Fazenda: reconstrução de site em JavaScript" /></a></td>
+  </tr>
+</table>
 
-###
+## No GitHub
 
-<p align="left">I'm a Software Engineering student from Brazil 🇧🇷<br><br>👨‍💻 Junior Support Analyst<br>🎓 Software Engineering Student<br>💻 Full Stack Developer<br><br>I enjoy solving problems and building solutions that actually work.<br>I’m more focused on back-end, but I also handle front-end when needed.<br>Always learning and growing in the tech field.</p>
+<img src="assets/stats.svg" width="100%" alt="Estatísticas de contribuições e linguagens" />
 
-###
+## Fliperama
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<img src="assets/arcade.svg" width="100%" alt="Gráfico real de contribuições, com um robozinho pixel comendo os quadrados enquanto bugs correm atrás" />
