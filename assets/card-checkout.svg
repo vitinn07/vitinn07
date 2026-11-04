@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="250" viewBox="0 0 590 250" role="img" aria-label="Self-Checkout: Projeto de autoatendimento feito com Next.js e TypeScript. Tecnologias: Next.js, TypeScript."><title>Self-Checkout: Projeto de autoatendimento feito com Next.js e TypeScript. Tecnologias: Next.js, TypeScript.</title><defs>
+    <linearGradient id="bd" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="590" y2="250"><stop offset="0" stop-color="#b4ff39"/><stop offset=".5" stop-color="#262f40"/><stop offset="1" stop-color="#b4ff39"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 295.0 125.0" to="360 295.0 125.0" dur="7s" repeatCount="indefinite"/></linearGradient>
+    <linearGradient id="sg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="cl"><rect x="2" y="2" width="586" height="246" rx="18"/></clipPath>
+    <style>
+    .nm{font:700 29px 'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif;fill:#eef2f8}
+    .ds{font:400 19px 'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif;fill:#b6c0d2}
+    .tg{font:600 15px 'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Menlo,Consolas,'Liberation Mono',monospace;dominant-baseline:central;text-anchor:middle}
+    .ar{font:700 24px 'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Menlo,Consolas,'Liberation Mono',monospace;fill:#b4ff39;animation:ar 2s ease-in-out infinite;animation-delay:2.4s}
+    @keyframes ar{50%{transform:translateX(7px)}}
+    .sheen{animation:sh 7s ease-in-out infinite;animation-delay:2.4s}
+    @keyframes sh{0%{transform:translateX(-300px)}45%,100%{transform:translateX(800px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+    <rect x="1" y="1" width="588" height="248" rx="19" fill="#0a0d14"/>
+    <g clip-path="url(#cl)"><rect class="sheen" y="-20" width="220" height="290" fill="url(#sg)" transform="skewX(-14)"/></g>
+    <rect x="1.5" y="1.5" width="587" height="247" rx="19" fill="none" stroke="url(#bd)" stroke-width="3"/>
+    <text class="nm" x="32" y="56">Self-Checkout</text>
+    <text class="ar" x="532" y="56">→</text>
+    <text class="ds" x="32" y="96">Projeto de autoatendimento feito com</text><text class="ds" x="32" y="125">Next.js e TypeScript.</text><rect x="32" y="186" width="90" height="34" rx="17" fill="#b4ff39" fill-opacity=".13" stroke="#b4ff39" stroke-opacity=".55"/><text class="tg" x="77.0" y="203" style="fill:#b4ff39">Next.js</text><rect x="132" y="186" width="118" height="34" rx="17" fill="#b4ff39" fill-opacity=".13" stroke="#b4ff39" stroke-opacity=".55"/><text class="tg" x="191.0" y="203" style="fill:#b4ff39">TypeScript</text>
+    </svg>

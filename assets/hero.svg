@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Victor Lucas (Vitinn): dev full stack com foco em back-end, suporte de TI e estudante de Engenharia de Software na PUC Minas, em Belo Horizonte."><title>Victor Lucas (Vitinn): dev full stack com foco em back-end, suporte de TI e estudante de Engenharia de Software na PUC Minas, em Belo Horizonte.</title><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0d14"/><stop offset="1" stop-color="#121826"/></linearGradient>
+    <radialGradient id="gp"><stop offset="0" stop-color="#ff4d8d" stop-opacity=".42"/><stop offset="1" stop-color="#ff4d8d" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gc"><stop offset="0" stop-color="#38e8ff" stop-opacity=".30"/><stop offset="1" stop-color="#38e8ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gv"><stop offset="0" stop-color="#9d7bff" stop-opacity=".34"/><stop offset="1" stop-color="#9d7bff" stop-opacity="0"/></radialGradient>
+    <linearGradient id="nameg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#ff4d8d"/><stop offset=".33" stop-color="#9d7bff"/><stop offset=".66" stop-color="#38e8ff"/><stop offset="1" stop-color="#b4ff39"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1200 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff4d8d"/><stop offset=".5" stop-color="#38e8ff"/><stop offset="1" stop-color="#b4ff39"/></linearGradient>
+    <pattern id="gr" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
+    <clipPath id="card"><rect width="1200" height="400" rx="22"/></clipPath>
+    <clipPath id="rc0"><rect class="rc0" x="70" y="256" width="0" height="48"/></clipPath><clipPath id="rc1"><rect class="rc1" x="70" y="256" width="0" height="48"/></clipPath><clipPath id="rc2"><rect class="rc2" x="70" y="256" width="0" height="48"/></clipPath><clipPath id="rc3"><rect class="rc3" x="70" y="256" width="0" height="48"/></clipPath><style>
+    .name{font:800 88px 'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif;letter-spacing:-3px}
+    .kick{font:500 21px 'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Menlo,Consolas,'Liberation Mono',monospace;fill:#38e8ff}
+    .role{font:500 28px 'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Menlo,Consolas,'Liberation Mono',monospace;fill:#eef2f8}
+    .meta{font:500 19px 'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Menlo,Consolas,'Liberation Mono',monospace;fill:#8a95a8}
+    .tok{font:600 17px 'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Menlo,Consolas,'Liberation Mono',monospace;fill:#eef2f8;text-anchor:middle;dominant-baseline:central}
+    .core{font:800 32px 'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Menlo,Consolas,'Liberation Mono',monospace;text-anchor:middle;dominant-baseline:central;fill:#0a0d14}
+    .caret{animation:bl 1s steps(1) infinite}
+    @keyframes bl{50%{opacity:0}}
+    .b1{animation:d1 13s ease-in-out infinite alternate}
+    .b2{animation:d2 17s ease-in-out infinite alternate}
+    .b3{animation:d3 11s ease-in-out infinite alternate}
+    @keyframes d1{to{transform:translate(170px,70px)}}
+    @keyframes d2{to{transform:translate(-210px,-60px)}}
+    @keyframes d3{to{transform:translate(-90px,90px)}}
+    .grid{animation:gm 8s linear infinite}
+    @keyframes gm{to{transform:translateY(48px)}}
+    .pulse{animation:pu 2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    @keyframes pu{50%{transform:scale(1.5);opacity:.35}}
+    .ring{transform-origin:950px 200px}
+    .r1{animation:sp 24s linear infinite}
+    .r2{animation:sp 36s linear infinite reverse}
+    @keyframes sp{to{transform:rotate(360deg)}}
+    .rise{animation:ri 1s cubic-bezier(.2,.8,.2,1) both}
+    @keyframes ri{from{opacity:0;transform:translateY(20px)}}
+    .rc0{animation:rc0 16s steps(36) infinite}@keyframes rc0{0%,0.00%{width:0}10.50%,22.00%{width:608.8px}25.00%,100%{width:0}}.cr0{animation:cr0 16s steps(36) infinite}@keyframes cr0{0%,0.00%{transform:translateX(0);opacity:1}0.01%{opacity:1;transform:translateX(0)}10.50%,22.00%{opacity:1;transform:translateX(608.8px)}25.00%{opacity:1;transform:translateX(0)}25.01%,100%{opacity:0;transform:translateX(0)}}.rc1{animation:rc1 16s steps(27) infinite}@keyframes rc1{0%,25.00%{width:0}35.50%,47.00%{width:457.6px}50.00%,100%{width:0}}.cr1{animation:cr1 16s steps(27) infinite}@keyframes cr1{0%,25.00%{transform:translateX(0);opacity:0}25.01%{opacity:1;transform:translateX(0)}35.50%,47.00%{opacity:1;transform:translateX(457.6px)}50.00%{opacity:1;transform:translateX(0)}50.01%,100%{opacity:0;transform:translateX(0)}}.rc2{animation:rc2 16s steps(34) infinite}@keyframes rc2{0%,50.00%{width:0}60.50%,72.00%{width:575.2px}75.00%,100%{width:0}}.cr2{animation:cr2 16s steps(34) infinite}@keyframes cr2{0%,50.00%{transform:translateX(0);opacity:0}50.01%{opacity:1;transform:translateX(0)}60.50%,72.00%{opacity:1;transform:translateX(575.2px)}75.00%{opacity:1;transform:translateX(0)}75.01%,100%{opacity:0;transform:translateX(0)}}.rc3{animation:rc3 16s steps(29) infinite}@keyframes rc3{0%,75.00%{width:0}85.50%,97.00%{width:491.2px}100.00%,100%{width:0}}.cr3{animation:cr3 16s steps(29) infinite}@keyframes cr3{0%,75.00%{transform:translateX(0);opacity:0}75.01%{opacity:1;transform:translateX(0)}85.50%,97.00%{opacity:1;transform:translateX(491.2px)}100.00%{opacity:1;transform:translateX(0)}100.01%,100%{opacity:0;transform:translateX(0)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+    <g clip-path="url(#card)">
+      <rect width="1200" height="400" fill="url(#bg)"/>
+      <circle class="b1" cx="180" cy="60" r="330" fill="url(#gp)"/>
+      <circle class="b2" cx="1060" cy="340" r="340" fill="url(#gc)"/>
+      <circle class="b3" cx="640" cy="20" r="280" fill="url(#gv)"/>
+      <g class="grid"><rect y="-48" width="1200" height="496" fill="url(#gr)"/></g>
+      <g class="rise"><text class="kick" x="70" y="104" textLength="176.4" lengthAdjust="spacingAndGlyphs">// olá, eu sou</text></g>
+      <g class="rise" style="animation-delay:.15s"><text class="name" x="66" y="196" fill="url(#nameg)">Victor Lucas</text></g>
+      <g clip-path="url(#rc0)"><text class="role" x="70" y="290" textLength="604.8" lengthAdjust="spacingAndGlyphs">Dev full stack, com foco em back-end</text></g><g class="cr0"><rect class="caret" x="72" y="264" width="3" height="32" fill="#b4ff39"/></g><g clip-path="url(#rc1)"><text class="role" x="70" y="290" textLength="453.6" lengthAdjust="spacingAndGlyphs">Suporte de TI · Helpdesk N1</text></g><g class="cr1"><rect class="caret" x="72" y="264" width="3" height="32" fill="#b4ff39"/></g><g clip-path="url(#rc2)"><text class="role" x="70" y="290" textLength="571.2" lengthAdjust="spacingAndGlyphs">Engenharia de Software · PUC Minas</text></g><g class="cr2"><rect class="caret" x="72" y="264" width="3" height="32" fill="#b4ff39"/></g><g clip-path="url(#rc3)"><text class="role" x="70" y="290" textLength="487.2" lengthAdjust="spacingAndGlyphs">APIs, integrações e automação</text></g><g class="cr3"><rect class="caret" x="72" y="264" width="3" height="32" fill="#b4ff39"/></g>
+      <g class="rise" style="animation-delay:.4s">
+        <circle class="pulse" cx="79" cy="342" r="6" fill="#b4ff39"/>
+        <text class="meta" x="98" y="348">@vitinn07 · Belo Horizonte, MG</text>
+      </g>
+      <g class="ring r1"><circle cx="950" cy="200" r="105" fill="none" stroke="#fff" stroke-opacity=".13" stroke-dasharray="3 9"/><g transform="translate(1055.0 200.0)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="24s" repeatCount="indefinite"/><rect x="-23.8" y="-20" width="47.6" height="40" rx="12" fill="#121826" stroke="#f7df1e" stroke-width="2"/><text class="tok" fill="#f7df1e" style="fill:#f7df1e">JS</text></g></g><g transform="translate(897.5 290.9)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="24s" repeatCount="indefinite"/><rect x="-23.8" y="-20" width="47.6" height="40" rx="12" fill="#121826" stroke="#4b9fff" stroke-width="2"/><text class="tok" fill="#4b9fff" style="fill:#4b9fff">TS</text></g></g><g transform="translate(897.5 109.1)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="24s" repeatCount="indefinite"/><rect x="-29.2" y="-20" width="58.4" height="40" rx="12" fill="#121826" stroke="#a5a9ff" stroke-width="2"/><text class="tok" fill="#a5a9ff" style="fill:#a5a9ff">PHP</text></g></g></g>
+      <g class="ring r2"><circle cx="950" cy="200" r="175" fill="none" stroke="#fff" stroke-opacity=".13" stroke-dasharray="3 9"/><g transform="translate(1125.0 200.0)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/><rect x="-34.6" y="-20" width="69.2" height="40" rx="12" fill="#121826" stroke="#b4ff39" stroke-width="2"/><text class="tok" fill="#b4ff39" style="fill:#b4ff39">Node</text></g></g><g transform="translate(1004.1 366.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/><rect x="-29.2" y="-20" width="58.4" height="40" rx="12" fill="#121826" stroke="#ff4d8d" stroke-width="2"/><text class="tok" fill="#ff4d8d" style="fill:#ff4d8d">API</text></g></g><g transform="translate(808.4 302.9)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/><rect x="-40.0" y="-20" width="80.0" height="40" rx="12" fill="#121826" stroke="#38e8ff" stroke-width="2"/><text class="tok" fill="#38e8ff" style="fill:#38e8ff">React</text></g></g><g transform="translate(808.4 97.1)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/><rect x="-34.6" y="-20" width="69.2" height="40" rx="12" fill="#121826" stroke="#ff9d5c" stroke-width="2"/><text class="tok" fill="#ff9d5c" style="fill:#ff9d5c">Java</text></g></g><g transform="translate(1004.1 33.6)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/><rect x="-29.2" y="-20" width="58.4" height="40" rx="12" fill="#121826" stroke="#ff7a59" stroke-width="2"/><text class="tok" fill="#ff7a59" style="fill:#ff7a59">Git</text></g></g></g>
+      <circle cx="950" cy="200" r="50" fill="url(#edge)"/>
+      <text class="core" x="950" y="200">&lt;/&gt;</text>
+    </g>
+    <rect x="1" y="1" width="1198" height="398" rx="21" fill="none" stroke="url(#edge)" stroke-opacity=".7" stroke-width="2"/>
+    </svg>
