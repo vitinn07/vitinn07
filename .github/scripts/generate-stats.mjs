@@ -8,18 +8,11 @@ const gql = await fetch('https://api.github.com/graphql', {
   method: 'POST',
   headers,
   body: JSON.stringify({
-    query: `query($l:String!){user(login:$l){contributionsCollection{contributionCalendar{totalContributions weeks{contributionDays{contributionCount}}}}}}`,
+    query: `query($l:String!){user(login:$l){contributionsCollection{contributionCalendar{totalContributions}}}}`,
     variables: { l: login },
   }),
 }).then((r) => r.json());
 const cal = gql.data.user.contributionsCollection.contributionCalendar;
-
-let best = 0;
-let run = 0;
-for (const day of cal.weeks.flatMap((w) => w.contributionDays)) {
-  run = day.contributionCount ? run + 1 : 0;
-  best = Math.max(best, run);
-}
 
 const repos = await fetch(`https://api.github.com/users/${login}/repos?per_page=100&type=owner`, { headers }).then((r) => r.json());
 const own = repos.filter((r) => !r.fork);
@@ -39,7 +32,7 @@ const W = 1200;
 const H = 300;
 const tiles = [
   [cal.totalContributions.toLocaleString('pt-BR'), 'contribuições em 12 meses', '#ff4d8d'],
-  [`${best} ${best === 1 ? 'dia' : 'dias'}`, 'maior sequência no período', '#38e8ff'],
+  [top[0]?.[0] ?? '-', 'linguagem mais usada', '#38e8ff'],
   [own.length, 'repositórios públicos', '#b4ff39'],
 ];
 const tileSvg = tiles.map(([v, l, c], i) => {
