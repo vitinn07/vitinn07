@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Estatísticas do GitHub de vitinn07">
+<defs><style>
+.v{font:800 42px 'Inter','Segoe UI',-apple-system,Roboto,Helvetica,Arial,sans-serif}
+.l,.lg{font:500 19px 'JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace;fill:#b6c0d2}
+.n{font:500 15px 'JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace;fill:#8a95a8}
+.in{animation:in .8s cubic-bezier(.2,.9,.3,1) both}
+@keyframes in{from{opacity:0;transform:translateY(14px)}}
+.grow{animation:gr 1.6s cubic-bezier(.2,.8,.2,1) both}
+@keyframes gr{from{width:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<clipPath id="b"><rect class="grow" x="30" y="176" width="1140" height="16" rx="8"/></clipPath>
+<linearGradient id="fr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4d8d"/><stop offset=".5" stop-color="#9d7bff"/><stop offset="1" stop-color="#38e8ff"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="298" rx="18" fill="#0a0d14" stroke="url(#fr)" stroke-width="2"/>
+<g class="in" style="animation-delay:0s"><rect x="30" y="30" width="368" height="118" rx="14" fill="#121826" stroke="#262f40"/>
+  <text class="v" x="54" y="88" style="fill:#ff4d8d">1.565</text><text class="l" x="54" y="124">contribuições em 12 meses</text></g><g class="in" style="animation-delay:0.15s"><rect x="416" y="30" width="368" height="118" rx="14" fill="#121826" stroke="#262f40"/>
+  <text class="v" x="440" y="88" style="fill:#38e8ff">TypeScript</text><text class="l" x="440" y="124">linguagem mais usada</text></g><g class="in" style="animation-delay:0.3s"><rect x="802" y="30" width="368" height="118" rx="14" fill="#121826" stroke="#262f40"/>
+  <text class="v" x="826" y="88" style="fill:#b4ff39">5</text><text class="l" x="826" y="124">repositórios públicos</text></g><g clip-path="url(#b)"><rect x="30.0" y="176" width="661.7" height="16" fill="#3178c6"/><rect x="691.7" y="176" width="190.6" height="16" fill="#f7df1e"/><rect x="882.3" y="176" width="157.8" height="16" fill="#9d7bff"/><rect x="1040.1" y="176" width="70.0" height="16" fill="#38e8ff"/><rect x="1110.2" y="176" width="45.1" height="16" fill="#e34f26"/></g><circle cx="38" cy="228" r="8" fill="#3178c6"/><text class="lg" x="54" y="235">TypeScript 58,0%</text><circle cx="272" cy="228" r="8" fill="#f7df1e"/><text class="lg" x="288" y="235">JavaScript 16,7%</text><circle cx="506" cy="228" r="8" fill="#9d7bff"/><text class="lg" x="522" y="235">CSS 13,8%</text><circle cx="659.5" cy="228" r="8" fill="#38e8ff"/><text class="lg" x="675.5" y="235">PowerShell 6,1%</text><circle cx="882" cy="228" r="8" fill="#e34f26"/><text class="lg" x="898" y="235">HTML 4,0%</text>
+<text class="n" x="30" y="274">Linguagens dos repositórios públicos. Atualizado em 04/11/2026.</text>
+</svg>
